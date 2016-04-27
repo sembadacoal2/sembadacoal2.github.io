@@ -207,7 +207,8 @@ p.site-slogan {
 /* Utility Classes */
 /*-----------------------------------------------------------------------------------*/
 .bottom-border {
-  box-shadow: 0 -4px 0 #33747a inset, 0 0 20px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 -4px 0 #3CF inset, 0 0 20px rgba(0, 0, 0, 0.1);
+  /*box-shadow: 0 -4px 0 #33747a inset, 0 0 20px rgba(0, 0, 0, 0.1); */
 }
 .bottom-border-shadow {
   background-image: -moz-linear-gradient(bottom, rgba(0, 0, 0, 0.05) 0%, rgba(0, 0, 0, 0) 25px, rgba(0, 0, 0, 0) 100%);
